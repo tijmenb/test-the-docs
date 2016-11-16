@@ -1,6 +1,9 @@
 ---
 title: What does this look like?
 layout: default
+published: true
 ---
 
-Hey *HELLO*.
+Hey *HELLO*
+
+*how are things?*
